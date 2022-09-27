@@ -1,5 +1,7 @@
 This is the README file for Ais Decoder.
 
+untill start https://www.rtl-sdr.com/aisrec-windows-and-android-ais-decoder/ 4
+
 V143
 I have written and installed a Auto-updater.
 If this causes any problems, please download and install the latest version
